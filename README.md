@@ -25,10 +25,6 @@ This project demonstrates a comprehensive data cleaning workflow using only **pa
 - Convert string dates into proper `datetime` objects
 - Drop or fix invalid date formats
 
-### 🧪 Data Standardization
-- Standardize categories (e.g., normalize country names like `us`, `USA`, `UsA`)
-- Convert `Subscribed` column to clean boolean values
-
 ### 💥 Outlier Detection
 - Remove outliers in `Income` using standard deviation thresholding
 
